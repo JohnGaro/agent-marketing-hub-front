@@ -109,7 +109,6 @@ export function Main({ uuid }: Props) {
         pb: 6,
         px: { xs: 2, sm: 4, md: 6 },
         maxWidth: 1600,
-        mx: "auto",
         minHeight: "100vh",
       }}
     >
